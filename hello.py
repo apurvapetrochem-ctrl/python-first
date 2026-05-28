@@ -14,4 +14,7 @@ tokyo_temp = get_weather(35.68, 139.69)
 print(f"Tokyo: {tokyo_temp}°C")
 print(f"Paris: {paris_temp}°C")
 print(f"London: {london_temp}°C")
+print("Hello, World!")
+print("This is a simpl")
+print("Hello")
 
